@@ -42,12 +42,7 @@
 
 ## 演示截图
 
-> ![主界面截图](./screenshot.png)<img width="375" height="442" alt="e1c20b8c50008c7cb140af4c6ab5346" src="https://github.com/user-attachments/assets/5cc2c243-fef7-4514-89c6-ebf87514761b" />
-
-> 
-> ![皮肤切换示例](./skin-demo.png)
-> 
-> *如需展示更多皮肤或功能，可添加多张截图。*
+> ![主界面截图](./screenshot.png)
 
 ---
 
