@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/sounds">
+        <file>sounds/eat.wav</file>
+        <file>sounds/crash.wav</file>
+    </qresource>
+</RCC>
