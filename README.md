@@ -29,7 +29,7 @@
 
 1. 克隆仓库
    ```sh
-   git clone https://github.com/YOUR_USERNAME/snake-qt.git
+   git clone https://github.com/H1600/snake-qt.git
    cd snake-qt
    ```
 
